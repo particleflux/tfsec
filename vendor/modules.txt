@@ -2,8 +2,8 @@
 github.com/agext/levenshtein
 # github.com/apparentlymart/go-cidr v1.0.1
 github.com/apparentlymart/go-cidr/cidr
-# github.com/apparentlymart/go-textseg/v12 v12.0.0
-github.com/apparentlymart/go-textseg/v12/textseg
+# github.com/apparentlymart/go-textseg/v13 v13.0.0
+github.com/apparentlymart/go-textseg/v13/textseg
 # github.com/bmatcuk/doublestar v1.1.5
 github.com/bmatcuk/doublestar
 # github.com/davecgh/go-spew v1.1.1
@@ -12,7 +12,7 @@ github.com/davecgh/go-spew/spew
 github.com/google/uuid
 # github.com/hashicorp/go-uuid v1.0.1
 github.com/hashicorp/go-uuid
-# github.com/hashicorp/hcl/v2 v2.7.0
+# github.com/hashicorp/hcl/v2 v2.12.0
 ## explicit
 github.com/hashicorp/hcl/v2
 github.com/hashicorp/hcl/v2/ext/customdecode
@@ -56,7 +56,7 @@ github.com/spf13/pflag
 ## explicit
 github.com/stretchr/testify/assert
 github.com/stretchr/testify/require
-# github.com/zclconf/go-cty v1.5.1
+# github.com/zclconf/go-cty v1.8.0
 ## explicit
 github.com/zclconf/go-cty/cty
 github.com/zclconf/go-cty/cty/convert
@@ -75,7 +75,7 @@ golang.org/x/crypto/ssh/terminal
 # golang.org/x/sys v0.0.0-20190804053845-51ab0e2deafa
 golang.org/x/sys/unix
 golang.org/x/sys/windows
-# golang.org/x/text v0.3.2
+# golang.org/x/text v0.3.5
 golang.org/x/text/transform
 golang.org/x/text/unicode/norm
 # gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f
